@@ -1,7 +1,7 @@
 CC=g++  
 CXXFLAGS = -std=c++0x
 CFLAGS=-I
-DEBUG=-g
+DEBUG=
 BIN_DIR=./bin
 STORE_DIR=./store
 

@@ -16,6 +16,7 @@ int main() {
     SkipList<int, std::string> skipList(6);
 	skipList.insert_element(1, "学"); 
 	skipList.insert_element(3, "算法"); 
+	// skipList.insert_element(2, "test"); 
 	skipList.insert_element(7, "认准"); 
 	skipList.insert_element(8, "微信公众号：代码随想录"); 
 	skipList.insert_element(9, "学习"); 
